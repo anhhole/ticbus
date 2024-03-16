@@ -1,0 +1,65 @@
+server:
+  port: 80
+  profiles: dev
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  devtools:
+    livereload:
+      enabled: false
+  session:
+    store-type: redis
+    redis:
+      flush-mode: on_save
+      namespace: spring:session
+  redis:
+    host: 13.228.88.221
+    port: 6379
+    jedis:
+      pool:
+        max-idle: 10
+        max-active: 10
+  datasource:
+    url: jdbc:mysql://13.228.88.221:3306/ticbus?useSSL=false&serverTimezone=UTC&useLegacyDatetimeCode=false&allowPublicKeyRetrieval=true&useUnicode=yes&characterEncoding=UTF-8
+    username: root
+    password: ticbus123!
+    initialization-mode: always
+    hikari:
+      minimumIdle: 10
+      maximumPoolSize: 20
+      idleTimeout: 30000
+      poolName: ticbusService
+      maxLifetime: 2000000
+      connectionTimeout: 30000
+  jpa:
+    open-in-view: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+    hibernate:
+      ddl-auto: update
+      naming:
+        implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+      connection:
+        provider_class: org.hibernate.hikaricp.internal.HikariCPConnectionProvider
+      ## Jackson Properties
+  jackson:
+    serialization:
+      WRITE_DATES_AS_TIMESTAMPS: false
+    time-zone: UTC
+    ## Hibernate Logging
+logging:
+  level:
+    org.hibernate.SQL: DEBUG
+lombok:
+  equalsAndHashCode:
+    callSuper: call
+## App Properties
+app:
+  jwtSecret: ticbusjwtsecretkey
+  jwtExpirationInMs: 900000 #15 min
+  debug: false
+  token:
+    refresh:
+      duration: 9000000

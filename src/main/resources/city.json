@@ -1,0 +1,322 @@
+[
+  {
+    "city": "Cần Thơ",
+    "province": "Cần Thơ",
+    "status": 1
+  },
+  {
+    "city": "Đà Nẵng",
+    "province": "Đà Nẵng",
+    "status": 1
+  },
+  {
+    "city": "Hải Phòng",
+    "province": "Hải Phòng",
+    "status": 1
+  },
+  {
+    "city": "Hà Nội",
+    "province": "Hà Nội",
+    "status": 1
+  },
+  {
+    "city": "Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "status": 1
+  },
+  {
+    "city": "Bà Rịa",
+    "province": "Bà Rịa–Vũng Tàu",
+    "status": 1
+  },
+  {
+    "city": "Bạc Liêu",
+    "province": "Bạc Liêu",
+    "status": 1
+  },
+  {
+    "city": "Bắc Giang",
+    "province": "Bắc Giang",
+    "status": 1
+  },
+  {
+    "city": "Bắc Ninh",
+    "province": "Bắc Ninh",
+    "status": 1
+  },
+  {
+    "city": "Bảo Lộc",
+    "province": "Lâm Đồng",
+    "status": 1
+  },
+  {
+    "city": "Biên Hòa",
+    "province": "Đồng Nai",
+    "status": 1
+  },
+  {
+    "city": "Bến Tre",
+    "province": "Bến Tre",
+    "status": 1
+  },
+  {
+    "city": "Buôn Ma Thuột",
+    "province": "Đắk Lắk",
+    "status": 1
+  },
+  {
+    "city": "Cà Mau",
+    "province": "Cà Mau",
+    "status": 1
+  },
+  {
+    "city": "Cẩm Phả",
+    "province": "Quảng Ninh",
+    "status": 1
+  },
+  {
+    "city": "Cao Lãnh",
+    "province": "Đồng Tháp",
+    "status": 1
+  },
+  {
+    "city": "Châu Đốc",
+    "province": "An Giang",
+    "status": 1
+  },
+  {
+    "city": "Đà Lạt",
+    "province": "Lâm Đồng",
+    "status": 1
+  },
+  {
+    "city": "Điện Biên Phủ",
+    "province": "Điện Biên",
+    "status": 1
+  },
+  {
+    "city": "Đông Hà",
+    "province": "Quảng Trị",
+    "status": 1
+  },
+  {
+    "city": "Đồng Hới",
+    "province": "Quảng Bình",
+    "status": 1
+  },
+  {
+    "city": "Hà Tĩnh",
+    "province": "Hà Tĩnh",
+    "status": 1
+  },
+  {
+    "city": "Hạ Long",
+    "province": "Quảng Ninh",
+    "status": 1
+  },
+  {
+    "city": "Hải Dương",
+    "province": "Hải Dương",
+    "status": 1
+  },
+  {
+    "city": "Hòa Bình",
+    "province": "Hòa Bình",
+    "status": 1
+  },
+  {
+    "city": "Hội An",
+    "province": "Quảng Nam",
+    "status": 1
+  },
+  {
+    "city": "Huế",
+    "province": "Thừa Thiên–Huế",
+    "status": 1
+  },
+  {
+    "city": "Hưng Yên",
+    "province": "Hưng Yên",
+    "status": 1
+  },
+  {
+    "city": "Kon Tum",
+    "province": "Kon Tum",
+    "status": 1
+  },
+  {
+    "city": "Lạng Sơn",
+    "province": "Lạng Sơn",
+    "status": 1
+  },
+  {
+    "city": "Lào Cai",
+    "province": "Lào Cai",
+    "status": 1
+  },
+  {
+    "city": "Long Xuyên",
+    "province": "An Giang",
+    "status": 1
+  },
+  {
+    "city": "Móng Cái",
+    "province": "Quảng Ninh",
+    "status": 1
+  },
+  {
+    "city": "Mỹ Tho",
+    "province": "Tiền Giang",
+    "status": 1
+  },
+  {
+    "city": "Nam Định",
+    "province": "Nam Định",
+    "status": 1
+  },
+  {
+    "city": "Ninh Bình",
+    "province": "Ninh Bình",
+    "status": 1
+  },
+  {
+    "city": "Nha Trang",
+    "province": "Khánh Hòa",
+    "status": 1
+  },
+  {
+    "city": "Cam Ranh",
+    "province": "Khánh Hòa",
+    "status": 1
+  },
+  {
+    "city": "Phan Rang–Tháp Chàm",
+    "province": "Ninh Thuận",
+    "status": 1
+  },
+  {
+    "city": "Phan Thiết",
+    "province": "Bình Thuận",
+    "status": 1
+  },
+  {
+    "city": "Phủ Lý",
+    "province": "Hà Nam",
+    "status": 1
+  },
+  {
+    "city": "Pleiku",
+    "province": "Gia Lai",
+    "status": 1
+  },
+  {
+    "city": "Quảng Ngãi",
+    "province": "Quảng Ngãi",
+    "status": 1
+  },
+  {
+    "city": "Quy Nhơn",
+    "province": "Bình Định",
+    "status": 1
+  },
+  {
+    "city": "Rạch Giá",
+    "province": "Kiên Giang",
+    "status": 1
+  },
+  {
+    "city": "Sa Đéc",
+    "province": "Đồng Tháp",
+    "status": 1
+  },
+  {
+    "city": "Sóc Trăng",
+    "province": "Sóc Trăng",
+    "status": 1
+  },
+  {
+    "city": "Sơn La",
+    "province": "Sơn La",
+    "status": 1
+  },
+  {
+    "city": "Tam Kỳ",
+    "province": "Quảng Nam",
+    "status": 1
+  },
+  {
+    "city": "Tân An",
+    "province": "Long An",
+    "status": 1
+  },
+  {
+    "city": "Thái Bình",
+    "province": "Thái Bình",
+    "status": 1
+  },
+  {
+    "city": "Thái Nguyên",
+    "province": "Thái Nguyên",
+    "status": 1
+  },
+  {
+    "city": "Thanh Hóa",
+    "province": "Thanh Hóa",
+    "status": 1
+  },
+  {
+    "city": "Trà Vinh",
+    "province": "Trà Vinh",
+    "status": 1
+  },
+  {
+    "city": "Tuy Hòa",
+    "province": "Phú Yên",
+    "status": 1
+  },
+  {
+    "city": "Tuyên Quang",
+    "province": "Tuyên Quang",
+    "status": 1
+  },
+  {
+    "city": "Uông Bí",
+    "province": "Quảng Ninh",
+    "status": 1
+  },
+  {
+    "city": "Việt Trì",
+    "province": "Phú Thọ",
+    "status": 1
+  },
+  {
+    "city": "Vinh",
+    "province": "Nghệ An",
+    "status": 1
+  },
+  {
+    "city": "Vĩnh Yên",
+    "province": "Vĩnh Phúc",
+    "status": 1
+  },
+  {
+    "city": "Vĩnh Long",
+    "province": "Vĩnh Long",
+    "status": 1
+  },
+  {
+    "city": "Vũng Tàu",
+    "province": "Bà Rịa–Vũng Tàu",
+    "status": 1
+  },
+  {
+    "city": "Yên Bái",
+    "province": "Yên Bái",
+    "status": 1
+  },
+  {
+    "city": "Cao Bằng",
+    "province": "Cao Bằng",
+    "status": 1
+  }
+]
